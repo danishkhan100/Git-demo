@@ -1,3 +1,2 @@
-This is my frist Git Repository.
-<br>
+This is my first Git Repository.
 Author - Danish Viqar Khan
